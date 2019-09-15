@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SolarSystem.cs">
+    <Files>
+      <File FileName="Assets\HPM1.cs" Line="22" Column="1" />
+      <File FileName="Assets\HPM2.cs" Line="1" Column="1" />
+      <File FileName="Assets\HPM3.cs" Line="1" Column="1" />
+      <File FileName="Assets\SolarSystem.cs" Line="12" Column="36" />
+      <File FileName="Assets\Sun.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
