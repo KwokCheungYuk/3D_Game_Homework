@@ -392,6 +392,33 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1819349348}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &630911334
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 630911329}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29461aab479af494ea247009e62b1581, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HP: 0
+  camera: {fileID: 0}
+  target: {fileID: 0}
+  blood_red_texture: {fileID: 0}
+  blood_black_texture: {fileID: 0}
 --- !u!1001 &1819349348
 PrefabInstance:
   m_ObjectHideFlags: 0
